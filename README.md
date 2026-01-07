@@ -50,29 +50,6 @@ Display Account List
 System processes request and shows result
 User exits the application
 
-📂 Project Structure
-Banking-System/
-│
-├── Bank/
-│   ├── Bank.java
-│   ├── BankAccount.java
-│   ├── SavingsAccount.java
-│   ├── CurrentAccount.java
-│   └── StudentAccount.java
-│
-├── Exceptions/
-│   ├── AccNotFound.java
-│   ├── InvalidAmount.java
-│   ├── MaxBalance.java
-│   └── MaxWithdraw.java
-│
-├── GUI/
-│   ├── Login.java
-│   ├── MainMenu.java
-│   └── OtherScreens.java
-│
-└── README.md
-
 ## Custom Exceptions Used
 
 AccNotFound – When account number does not exist
