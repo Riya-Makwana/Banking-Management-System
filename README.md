@@ -1,6 +1,5 @@
 # Banking-Management-System
 A simple Desktop Banking Management System developed using Core Java and Java Swing.
-This project is designed for learning Java basics, OOP concepts, and exception handling.
 
 ## Project Overview
 
@@ -11,8 +10,6 @@ Add new bank accounts
 Deposit money
 Withdraw money
 View all account details
-
-This is a beginner-level project, suitable for students learning Core Java.
 
 ## Technologies Used
 Language: Java
